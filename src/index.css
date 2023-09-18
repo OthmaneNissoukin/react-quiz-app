@@ -37,11 +37,13 @@ body {
 }
 
 .main {
-  width: 50rem;
+  max-width: 50rem;
+  width: 95%;
 }
 
 .app-header {
-  width: 66rem;
+  max-width: 66rem;
+  width: 95%;
   margin-bottom: 4rem;
   display: flex;
   align-items: center;
